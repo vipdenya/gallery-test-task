@@ -1,3 +1,6 @@
+Время выполнения около 3-х дней примерно по 10 часов в день.
+Начал выполнять 22.10.2020, но не успел.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
